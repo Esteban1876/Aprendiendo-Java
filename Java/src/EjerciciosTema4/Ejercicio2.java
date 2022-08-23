@@ -5,7 +5,7 @@ public class Ejercicio2 {
     public static void main(String[] args) {
         int numeroIf = 1;
         int numeroWhile = 0;
-        int numeroDoWhile = 0;
+        int numeroDoWhile = 1;
         int numeroFor = 0;
         String estacion = "verano";
 
